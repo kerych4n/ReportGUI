@@ -1,0 +1,3 @@
+name: ReportGUI
+version: ${project.version}
+main: com.github.kerych4n.reportgui.ReportGUI
